@@ -6,7 +6,6 @@ li { list-style: none; }
 
 
 
-
 /* 푸터 슬라이더 *//* 푸터 슬라이더 */
 .slide-img {width: 240px; height: auto; animation: scroll 60s linear infinite;
 }
